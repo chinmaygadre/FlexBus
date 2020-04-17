@@ -1,0 +1,59 @@
+﻿2020-04-17 09:52:15.158 INFO  Logging to 'E:\Chinmay\Projects\FlexBus\Build\FlexBusHost\' with level Info
+2020-04-17 09:52:15.177 INFO  Finding service endpoints to host...
+2020-04-17 09:52:15.183 INFO  Found 1 endpoints...
+2020-04-17 09:52:15.474 INFO  Selected active license from E:\Users\chinm\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-04-19
+2020-04-17 09:52:15.474 WARN  Trial license expiring in 2 days. To continue using the Particular Service Platform, please extend your trial or purchase a license by visiting http://go.particular.net/trial-expiring
+2020-04-17 09:52:15.577 INFO  	# endpoint 'Sales' started.
+2020-04-17 09:52:15.577 INFO  Waiting for communications...
+2020-04-17 10:00:14.144 INFO  Message 'PlaceSalesOrder' handled... (Order ID: 98524fce-fd5a-4c76-84b8-1f671e25bc9c)
+2020-04-17 10:03:24.552 INFO  Message 'PlaceSalesOrder' handled... (Order ID: 994b9496-b37b-4e39-83a6-8af8045595c0)
+2020-04-17 10:06:18.343 INFO  Initiating shutdown.
+2020-04-17 10:06:18.351 INFO  Shutdown complete.
+2020-04-17 10:06:33.438 INFO  Logging to 'E:\Chinmay\Projects\FlexBus\Build\FlexBusHost\' with level Info
+2020-04-17 10:06:33.458 INFO  Finding service endpoints to host...
+2020-04-17 10:06:33.465 INFO  Found 1 endpoints...
+2020-04-17 10:06:33.748 INFO  Selected active license from E:\Users\chinm\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-04-19
+2020-04-17 10:06:33.749 WARN  Trial license expiring in 2 days. To continue using the Particular Service Platform, please extend your trial or purchase a license by visiting http://go.particular.net/trial-expiring
+2020-04-17 10:06:33.868 INFO  	# endpoint 'Sales' started.
+2020-04-17 10:06:33.868 INFO  Waiting for communications...
+2020-04-17 10:06:40.633 INFO  Message 'PlaceSalesOrder' handled... (Order ID: b2978b8a-40b0-45f5-a38e-f5108a97a373; Received From: FlexBusTest)
+2020-04-17 10:06:55.181 INFO  Initiating shutdown.
+2020-04-17 10:06:55.189 INFO  Shutdown complete.
+2020-04-17 10:08:53.306 INFO  Logging to 'E:\Chinmay\Projects\FlexBus\Build\FlexBusHost\' with level Info
+2020-04-17 10:08:53.327 INFO  Finding service endpoints to host...
+2020-04-17 10:08:53.334 INFO  Found 1 endpoints...
+2020-04-17 10:08:53.635 INFO  Selected active license from E:\Users\chinm\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-04-19
+2020-04-17 10:08:53.635 WARN  Trial license expiring in 2 days. To continue using the Particular Service Platform, please extend your trial or purchase a license by visiting http://go.particular.net/trial-expiring
+2020-04-17 10:08:53.738 INFO  	# endpoint 'Sales' started.
+2020-04-17 10:08:53.738 INFO  Waiting for communications...
+2020-04-17 10:09:02.027 INFO  Message 'PlaceSalesOrder' handled... (Order ID: 956cba98-a0a9-47ce-ad96-99344f7e4182; Received From: DEV-MASTERFlexBusTest); 
+2020-04-17 10:09:20.048 INFO  Initiating shutdown.
+2020-04-17 10:09:20.056 INFO  Shutdown complete.
+2020-04-17 10:09:22.345 INFO  Logging to 'E:\Chinmay\Projects\FlexBus\Build\FlexBusHost\' with level Info
+2020-04-17 10:09:22.366 INFO  Finding service endpoints to host...
+2020-04-17 10:09:22.387 INFO  Found 1 endpoints...
+2020-04-17 10:09:22.656 INFO  Selected active license from E:\Users\chinm\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-04-19
+2020-04-17 10:09:22.657 WARN  Trial license expiring in 2 days. To continue using the Particular Service Platform, please extend your trial or purchase a license by visiting http://go.particular.net/trial-expiring
+2020-04-17 10:09:22.771 INFO  	# endpoint 'Sales' started.
+2020-04-17 10:09:22.771 INFO  Waiting for communications...
+2020-04-17 10:09:28.743 INFO  Message 'PlaceSalesOrder' handled... (Order ID: 059c5ba5-4c3f-4bdc-aaa0-a3b9ffeaaebd; Received From: DEV-MASTER\FlexBusTest); 
+2020-04-17 10:09:40.391 INFO  Initiating shutdown.
+2020-04-17 10:09:40.399 INFO  Shutdown complete.
+2020-04-17 10:11:56.890 INFO  Logging to 'E:\Chinmay\Projects\FlexBus\Build\FlexBusHost\' with level Info
+2020-04-17 10:11:56.911 INFO  Finding service endpoints to host...
+2020-04-17 10:11:56.917 INFO  Found 1 endpoints...
+2020-04-17 10:11:57.198 INFO  Selected active license from E:\Users\chinm\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-04-19
+2020-04-17 10:11:57.199 WARN  Trial license expiring in 2 days. To continue using the Particular Service Platform, please extend your trial or purchase a license by visiting http://go.particular.net/trial-expiring
+2020-04-17 10:11:57.309 INFO  	# endpoint 'Sales' started.
+2020-04-17 10:11:57.310 INFO  Waiting for communications...
+2020-04-17 10:12:08.132 INFO  Message 'PlaceSalesOrder' handled... (Order ID: f2cb79bf-f462-4aa7-b3ee-ceae1f08114a; Received From: DEV-MASTER\FlexBusTest); 
+2020-04-17 10:13:39.039 INFO  Message 'PlaceSalesOrder' handled... (Order ID: 4cc19b5c-3e62-45bf-908d-cf98968c4992; Received From: DEV-MASTER\FlexBusTest); 
+2020-04-17 10:14:09.363 INFO  Message 'PlaceSalesOrder' handled... (Order ID: c1419f13-230c-4d1b-ab47-ce58c1985fe1; Received From: DEV-MASTER\Test1); 
+2020-04-17 10:14:50.033 INFO  Message 'PlaceSalesOrder' handled... (Order ID: 6456607e-f57e-41cd-958a-a09fe85c260b; Received From: DEV-MASTER\Test2212); 
+2020-04-17 10:15:10.498 INFO  Initiating shutdown.
+2020-04-17 10:15:10.506 INFO  Shutdown complete.

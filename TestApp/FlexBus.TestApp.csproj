@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<OutDir>$(SolutionDir)Build\FlexBusTest</OutDir>
+		<GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="NServiceBus" Version="7.2.3" />
+	  <PackageReference Include="NServiceBus.NewtonSoft.Json" Version="2.2.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Plugins\FlexMessages\Flex.Plugins.Messages.csproj" />
+	</ItemGroup>
+
+</Project>
